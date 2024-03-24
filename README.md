@@ -29,6 +29,7 @@ What things you need to install the software:
    ```
    docker-compose up -d
    ```
+4. **Wait some time** and got to # Accessing the Application
 
 ## Accessing the Application
 Once the containers are up and running, the application will be accessible through either of the following URLs:
